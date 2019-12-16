@@ -4,14 +4,14 @@
 工具：Visual Stdio 2017<br>
 语言：C\C++、   图形化工具：MFC<br>
 程序登陆界面：<br>
-   ![Image text](https://github.com/kinnisoy/operating-system/blob/master/photos/d61c315c851ed7f688c683155dedf51.png)
+   ![Image text](https://github.com/kinnisoy/operating-system/blob/master/photos/d61c315c851ed7f688c683155dedf51.png)<br>
 进程管理<br>
-  ![Image text]( https://github.com/kinnisoy/operating-system/blob/master/photos/5b31d1b6c0308fab9501958e66f7f11.png)
+  ![Image text]( https://github.com/kinnisoy/operating-system/blob/master/photos/5b31d1b6c0308fab9501958e66f7f11.png)<br>
 
 内存管理<br>
-  ![Image text](https://github.com/kinnisoy/operating-system/blob/master/photos/e435cf3ca4b8d19ec6b200b290f2dd3.png)
+  ![Image text](https://github.com/kinnisoy/operating-system/blob/master/photos/e435cf3ca4b8d19ec6b200b290f2dd3.png)<br>
 磁盘管理<br>
-  ![Image text]( https://github.com/kinnisoy/operating-system/blob/master/photos/adf9cbc29b7376e1d34eab170da03f9.png)
+  ![Image text]( https://github.com/kinnisoy/operating-system/blob/master/photos/adf9cbc29b7376e1d34eab170da03f9.png)<br>
 思路：<br>
 1.创建登陆界面，模态化弹窗，阻塞进程，登陆完成后，关掉该dialog，程序继续运行，显示主程序界面<br>
 
