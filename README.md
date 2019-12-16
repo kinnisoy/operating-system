@@ -6,6 +6,7 @@
 程序主界面：<br>
   
 进程管理<br>
+  ![Image text]( https://github.com/kinnisoy/operating-system/blob/master/photos/5b31d1b6c0308fab9501958e66f7f11.png)
 ![Image text]https://github.com/kinnisoy/operating-system/blob/master/photos/5b31d1b6c0308fab9501958e66f7f11.png）<br>
 内存管理<br>
  
